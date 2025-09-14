@@ -1,0 +1,5 @@
+I did not discuss this project with anyone. I only utilzied the sources below in working on this project. 
+
+After briefly looking into forecasting models on google and statsmodels I decided to implement the following model and utilized these docs to assist me with it. 
+https://www.statsmodels.org/stable/generated/statsmodels.tsa.holtwinters.ExponentialSmoothing.html
+https://www.geeksforgeeks.org/artificial-intelligence/exponential-smoothing-for-time-series-forecasting/
